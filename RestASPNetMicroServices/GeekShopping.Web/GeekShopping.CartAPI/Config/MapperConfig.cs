@@ -12,7 +12,7 @@ public class MapperConfig
         {
             config.CreateMap<ProductVO, Product>().ReverseMap();
             config.CreateMap<CartDetailVO, CartDetail>().ReverseMap();
-            config.CreateMap<CartVO, Cart>().ReverseMap();
+            config.CreateMap<CartVO, CartVO>().ReverseMap();
             config.CreateMap<CartHeaderVO, CartHeader>().ReverseMap();
 
         });

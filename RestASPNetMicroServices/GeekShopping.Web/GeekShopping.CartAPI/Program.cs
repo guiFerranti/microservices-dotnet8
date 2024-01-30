@@ -1,6 +1,7 @@
 using AutoMapper;
 using GeekShopping.CartAPI.Config;
 using GeekShopping.CartAPI.Model.Context;
+using GeekShopping.CartAPI.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -33,6 +34,10 @@ builder.Services.AddAuthorization(options =>
 });
 
 // Custom Services
+
+// injecao de dependencias cart
+
+builder.Services.AddScoped<ICartRepository, CartRepository>();
 
 // Mysql
 

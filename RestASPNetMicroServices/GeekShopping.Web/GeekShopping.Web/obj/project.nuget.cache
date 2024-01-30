@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ttSAYeotwvcN9z+PIOzWL/42crug0ubi75EJdypgPapIjUOYC9Ueh4QZkM8Noc18RWZYSgzi9YAmsDO2OsFlQA==",
+  "dgSpecHash": "hIvZG5d4O2IR/QI7WsU6KzYwqiYeLZObYU3m3CDI132J+kG5POudlC8u5fpc2kbH7t4J7CMx1VFzgdAeS1tqNQ==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\13.RestASPNetFirstMicroService - CartAPI\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\14.RestASPNetFirstMicroService - Using CartAPI\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
