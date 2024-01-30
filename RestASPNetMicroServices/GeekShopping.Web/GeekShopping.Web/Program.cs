@@ -10,6 +10,13 @@ builder.Services.AddControllersWithViews();
 // Products API
 
 builder.Services.AddHttpClient<IProductService, ProductService>(c => c.BaseAddress = new Uri(builder.Configuration["ServiceUrls:ProductAPI"]));
+
+// Cart API
+
+builder.Services.AddHttpClient<ICartService, CartService>(c => c.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CartAPI"]));
+
+
+
 builder.Services.AddControllersWithViews();
 
 // Configurando autenticacao

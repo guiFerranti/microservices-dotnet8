@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using GeekShopping.CartAPI.Data.ValueObjects;
 using GeekShopping.CartAPI.Model;
 using GeekShopping.CartAPI.Model.Context;
 using Microsoft.EntityFrameworkCore;
@@ -41,7 +40,7 @@ public class CartRepository : ICartRepository
 
     public async Task<Data.ValueObjects.CartVO> FindCartByUserId(string userId)
     {
-        Model.CartVO cart = new()
+        Cart cart = new()
         {
             CartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userId),
         };
@@ -86,7 +85,7 @@ public class CartRepository : ICartRepository
 
     public async Task<Data.ValueObjects.CartVO> SaveOrUpdateCart(Data.ValueObjects.CartVO cartVo)
     {
-        Model.CartVO cart = _mapper.Map<Model.CartVO>(cartVo);
+        Cart cart = _mapper.Map<Cart>(cartVo);
 
         // ver se o produto ja ta salvo na db
 
