@@ -53,7 +53,8 @@ public class CartService : ICartService
 
         var status = await _client.DeleteAsync($"{BasePath}/remove-cart/{cartId}");
 
-        if (status.IsSuccessStatusCode) return 
+        if (status.IsSuccessStatusCode) return await status.ReadContentAs<bool>();
+        else throw new Exception("Something went wrong removing your cart");
     }
 
     public Task<bool> ClearCart(string userId, string token)

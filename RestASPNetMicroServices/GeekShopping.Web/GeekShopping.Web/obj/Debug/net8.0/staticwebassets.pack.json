@@ -1,339 +1,339 @@
 {
   "Files": [
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\GeekShopping.Web.bundle.scp.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.scss",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.scss",
       "PackagePath": "staticwebassets\\css\\site.scss"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\duende-logo.svg",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\duende-logo.svg",
       "PackagePath": "staticwebassets\\duende-logo.svg"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\favicon.ico",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
       "PackagePath": "staticwebassets\\images\\geek_shopping.png"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signin-redirect.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signin-redirect.js",
       "PackagePath": "staticwebassets\\js\\signin-redirect.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signout-redirect.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signout-redirect.js",
       "PackagePath": "staticwebassets\\js\\signout-redirect.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\site.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\README.md",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\README.md",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\README.md",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\README.md",
       "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

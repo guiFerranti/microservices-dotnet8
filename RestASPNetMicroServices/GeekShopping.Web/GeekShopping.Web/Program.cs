@@ -15,7 +15,7 @@ builder.Services.AddHttpClient<IProductService, ProductService>(c => c.BaseAddre
 
 builder.Services.AddHttpClient<ICartService, CartService>(c => c.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CartAPI"]));
 
-
+builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
 
 builder.Services.AddControllersWithViews();
 

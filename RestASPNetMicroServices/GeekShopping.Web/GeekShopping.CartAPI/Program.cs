@@ -35,6 +35,8 @@ builder.Services.AddAuthorization(options =>
 
 // Custom Services
 
+builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
+
 // injecao de dependencias cart
 
 builder.Services.AddScoped<ICartRepository, CartRepository>();

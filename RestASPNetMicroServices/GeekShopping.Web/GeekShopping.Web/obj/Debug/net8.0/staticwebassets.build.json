@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tc2SUlzW5L1KhJgOgRJPOruibUHvTY5e7IUtBhdT/FU=",
+  "Hash": "+aB/TFQWuy/9zm0+SjtXTIbYIAxT7RwweCHFoty3+Rc=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GeekShopping.Web\\wwwroot",
       "Source": "GeekShopping.Web",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GeekShopping.Web.styles.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GeekShopping.Web.styles.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "GeekShopping.Web.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GeekShopping.Web.styles.css"
+      "OriginalItemSpec": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GeekShopping.Web.styles.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "GeekShopping.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css"
+      "OriginalItemSpec": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.scss",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\css\\site.scss",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\duende-logo.svg",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\duende-logo.svg",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "duende-logo.svg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\duende-logo.svg"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\favicon.ico",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\favicon.ico",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "images/favicon.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "images/geek_shopping.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signin-redirect.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signin-redirect.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "js/signin-redirect.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signin-redirect.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signout-redirect.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\signout-redirect.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "js/signout-redirect.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signout-redirect.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\site.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\site.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\README.md",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap\\README.md",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap/README.md",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\README.md"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/LICENSE",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\README.md",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery\\README.md",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery/README.md",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\README.md"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "GeekShopping.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "ContentRoot": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
       "BasePath": "_content/GeekShopping.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

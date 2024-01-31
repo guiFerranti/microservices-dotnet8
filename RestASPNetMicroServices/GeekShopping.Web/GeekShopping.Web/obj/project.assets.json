@@ -2008,19 +2008,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\augus\\.nuget\\packages\\": {}
+    "C:\\Users\\guilh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
-      "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\C#\\microservices-dotnet8\\RestASPNetMicroServices\\GeekShopping.Web\\GeekShopping.Web\\obj\\",
+      "projectPath": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
+      "outputPath": "P:\\C#\\microservices-dotnet8\\15.RestASPNetFirstMicroService - Cart View\\GeekShopping.Web\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
