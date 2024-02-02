@@ -62,20 +62,28 @@ public class CartService : ICartService
         throw new NotImplementedException();
     }
 
-    public Task<bool> ApplyCoupon(CartViewModel cart, string couponCode, string token)
+    public async Task<bool> ApplyCoupon(CartViewModel cart, string token)
     {
-        throw new NotImplementedException();
+        _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+        var status = await _client.PostAsJson($"{BasePath}/apply-coupon", cart);
+
+        if (status.IsSuccessStatusCode) return await status.ReadContentAs<bool>();
+        else throw new Exception("Something went wrong adding your coupon");
+    }
+
+    public async Task<bool> RemoveCoupon(string userId, string token)
+    {
+        _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+        var status = await _client.DeleteAsync($"{BasePath}/remove-coupon/{userId}");
+
+        if (status.IsSuccessStatusCode) return await status.ReadContentAs<bool>();
+        else throw new Exception("Something went wrong removing coupon");
     }
 
     public Task<CartViewModel> Checkout(CartHeaderViewModel cart, string token)
     {
         throw new NotImplementedException();
     }
-
-
-    public Task<bool> RemoveCoupon(string userId, string token)
-    {
-        throw new NotImplementedException();
-    }
-
 }

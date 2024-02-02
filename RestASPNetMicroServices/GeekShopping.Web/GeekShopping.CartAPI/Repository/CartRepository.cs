@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using GeekShopping.CartAPI.Data.ValueObjects;
 using GeekShopping.CartAPI.Model;
 using GeekShopping.CartAPI.Model.Context;
 using Microsoft.EntityFrameworkCore;
@@ -16,10 +17,6 @@ public class CartRepository : ICartRepository
         _mapper = mapper;
     }
 
-    public async Task<bool> ApplyCoupon(string userId, string couponCode)
-    {
-        throw new NotImplementedException();
-    }
 
     public async Task<bool> ClearCart(string userId)
     {
@@ -38,28 +35,25 @@ public class CartRepository : ICartRepository
         return false;
     }
 
-    public async Task<Data.ValueObjects.CartVO> FindCartByUserId(string userId)
+    public async Task<CartVO> FindCartByUserId(string userId)
     {
         Cart cart = new()
         {
-            CartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userId),
+            CartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userId) ?? new CartHeader()
         };
 
         cart.CartDetails = _context.CartDetails.Where(c => c.CartHeaderId == cart.CartHeader.Id).Include(c => c.Product);
 
-        return _mapper.Map<Data.ValueObjects.CartVO>(cart);
-    }
-
-    public async Task<bool> RemoveCoupon(string userId)
-    {
-        throw new NotImplementedException();
+        return _mapper.Map<CartVO>(cart);
     }
 
     public async Task<bool> RemoveFromCart(long cartDetailsId)
     {
         try
         {
-            CartDetail cartDetail = await _context.CartDetails.FirstOrDefaultAsync(c => c.Id == cartDetailsId);
+            CartDetail cartDetail = await _context.CartDetails
+                    .FirstOrDefaultAsync(c => c.Id == cartDetailsId);
+
 
             int total = _context.CartDetails.Where(c => c.CartHeaderId == cartDetail.CartHeaderId).Count();
 
@@ -83,7 +77,7 @@ public class CartRepository : ICartRepository
 
     }
 
-    public async Task<Data.ValueObjects.CartVO> SaveOrUpdateCart(Data.ValueObjects.CartVO cartVo)
+    public async Task<CartVO> SaveOrUpdateCart(CartVO cartVo)
     {
         Cart cart = _mapper.Map<Cart>(cartVo);
 
@@ -139,6 +133,38 @@ public class CartRepository : ICartRepository
             }
         }
 
-        return _mapper.Map<Data.ValueObjects.CartVO>(cart);
+        return _mapper.Map<CartVO>(cart);
+    }
+
+    public async Task<bool> ApplyCoupon(string userId, string couponCode)
+    {
+        var cartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userId);
+
+        if (cartHeader != null)
+        {
+            cartHeader.CouponCode = couponCode;
+
+            _context.CartHeaders.Update(cartHeader);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
+        return false;
+    }
+
+    public async Task<bool> RemoveCoupon(string userId)
+    {
+        var cartHeader = await _context.CartHeaders.FirstOrDefaultAsync(c => c.UserId == userId);
+
+        if (cartHeader != null)
+        {
+            cartHeader.CouponCode = "";
+
+            _context.CartHeaders.Update(cartHeader);
+            await _context.SaveChangesAsync();
+
+            return true;
+        }
+        return false;
     }
 }

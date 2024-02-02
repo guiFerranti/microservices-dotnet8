@@ -2,6 +2,8 @@
 
 public class CartDetailVO
 {
+    public long Id { get; set; }
+
     public long CartHeaderId { get; set; }
 
     public CartHeaderVO CartHeader { get; set; }

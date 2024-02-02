@@ -18,7 +18,7 @@ public class CartController : ControllerBase
         _mapper = mapper;
     }
 
-    [HttpGet("find-cart/{id}")]
+    [HttpGet("find-cart/{userId}")]
     public async Task<ActionResult<CartVO>> FindCartById(string userId)
     {
         var cart = await _repository.FindCartByUserId(userId);
@@ -47,12 +47,30 @@ public class CartController : ControllerBase
     }
 
     [HttpDelete("remove-cart/{id}")]
-    public async Task<ActionResult<bool>> RemoveCart(int id)
+    public async Task<ActionResult<bool>> RemoveCart(long id)
     {
         var status = await _repository.RemoveFromCart(id);
 
         if (!status) return BadRequest();
 
+        return Ok(status);
+    }
+
+    [HttpPost("apply-coupon")]
+    public async Task<ActionResult<CartVO>> ApplyCoupon(CartVO cartVo)
+    {
+        var status = await _repository.ApplyCoupon(cartVo.CartHeader.UserId, cartVo.CartHeader.CouponCode);
+
+        if (!status) return NotFound();
+        return Ok(status);
+    }
+
+    [HttpDelete("remove-coupon/{userId}")]
+    public async Task<ActionResult<CartVO>> AddCart(string userId)
+    {
+        var status = await _repository.RemoveCoupon(userId);
+
+        if (!status) return NotFound();
         return Ok(status);
     }
 }
