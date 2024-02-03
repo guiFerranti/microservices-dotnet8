@@ -1,9 +1,8 @@
 ﻿using GeekShopping.Web.Models;
 using GeekShopping.Web.Services.IServices;
 using GeekShopping.Web.Utils;
-using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 using System.Net.Http.Headers;
-using System.Runtime.CompilerServices;
 
 namespace GeekShopping.Web.Services;
 
@@ -82,8 +81,21 @@ public class CartService : ICartService
         else throw new Exception("Something went wrong removing coupon");
     }
 
-    public Task<CartViewModel> Checkout(CartHeaderViewModel cart, string token)
+
+    public async Task<object> Checkout(CartHeaderViewModel cart, string token)
     {
-        throw new NotImplementedException();
+        _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+
+        var response = await _client.PostAsJson($"{BasePath}/checkout", cart);
+
+        if (response.IsSuccessStatusCode) 
+        { 
+            return await response.ReadContentAs<CartHeaderViewModel>();
+        } else if (response.StatusCode.ToString().Equals("PreconditionFailed")) {
+            return "Coupon Price has changed, please confirm!"; 
+        }
+
+        else throw new Exception("Something went wrong in your checkout");
     }
+
 }
