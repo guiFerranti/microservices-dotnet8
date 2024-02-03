@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPCc0UGY3p77tO3uKFEcQWrJEUjLg1fPJ5yZKPPn8sPselxh1uO/mf7hr8CwKDcCP9HiLZgzlWeCG/3Ez5mVyw==",
+  "dgSpecHash": "BhlJ/bV2OXemj2Y6SsaYa+HXEFGn7pYfA5GYbcbUnU5wj3Qwqi8QGIXm40RE7uuy90ww/cwhVwbC3qji4RfE0A==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",

@@ -34,3 +34,15 @@ P:\C#\microservices-dotnet8\22.RestASPNetFirstMicroService - PaymentService\Geek
 P:\C#\microservices-dotnet8\22.RestASPNetFirstMicroService - PaymentService\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\refint\GeekShopping.MessageBus.dll
 P:\C#\microservices-dotnet8\22.RestASPNetFirstMicroService - PaymentService\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.pdb
 P:\C#\microservices-dotnet8\22.RestASPNetFirstMicroService - PaymentService\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\ref\GeekShopping.MessageBus.dll
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\bin\Debug\net8.0\GeekShopping.MessageBus.deps.json
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\bin\Debug\net8.0\GeekShopping.MessageBus.dll
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\bin\Debug\net8.0\GeekShopping.MessageBus.pdb
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.AssemblyInfo.cs
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.sourcelink.json
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.dll
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\refint\GeekShopping.MessageBus.dll
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\GeekShopping.MessageBus.pdb
+P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.MessageBus\obj\Debug\net8.0\ref\GeekShopping.MessageBus.dll

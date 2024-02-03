@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "60o0QEg69SHStVqVQNGWZVOC2Rdd1IjYKqZ3/i0LnVvaZOWMqH55fJ0lgC/p1C534QuCnbBh/vIAabbYprbmfA==",
+  "dgSpecHash": "y1dlzOkScZcTZOjBQGLWkByEc6RNfu8qPsGe5SLaSM0uWGi+ZjcdADf6ZOBqtBXxWN68LYtzh7gIOrexRjy28w==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\duende.identityserver\\6.3.8\\duende.identityserver.6.3.8.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.8\\duende.identityserver.aspnetidentity.6.3.8.nupkg.sha512",

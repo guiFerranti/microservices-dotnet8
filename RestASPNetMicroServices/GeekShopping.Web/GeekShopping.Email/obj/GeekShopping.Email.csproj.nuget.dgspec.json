@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj": {}
+    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj": {}
   },
   "projects": {
-    "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj": {
+    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj",
+        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj",
         "projectName": "GeekShopping.Email",
-        "projectPath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj",
+        "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.Email\\GeekShopping.Email.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.Email\\obj\\",
+        "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.Email\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
-                "projectPath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
+              "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
+                "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
               }
             }
           }
@@ -48,11 +48,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
             },
@@ -100,14 +114,14 @@
         }
       }
     },
-    "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
+    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
         "projectName": "GeekShopping.MessageBus",
-        "projectPath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+        "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\C#\\microservices-dotnet8\\22.RestASPNetFirstMicroService - PaymentService\\GeekShopping.Web\\GeekShopping.MessageBus\\obj\\",
+        "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

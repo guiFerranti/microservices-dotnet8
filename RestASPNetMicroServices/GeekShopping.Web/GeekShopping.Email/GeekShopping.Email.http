@@ -1,4 +1,4 @@
-@GeekShopping.Email_HostAddress = http://localhost:5046
+@GeekShopping.Email_HostAddress = http://localhost:5135
 
 GET {{GeekShopping.Email_HostAddress}}/weatherforecast/
 Accept: application/json
