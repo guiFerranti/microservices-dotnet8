@@ -1,0 +1,6 @@
+@GeekShopping.APIGateway_HostAddress = http://localhost:5176
+
+GET {{GeekShopping.APIGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

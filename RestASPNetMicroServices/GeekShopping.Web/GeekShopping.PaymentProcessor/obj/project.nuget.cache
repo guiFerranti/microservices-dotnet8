@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rWQ5Y9vtGKye/MDjryw4sa+s80W+rOoV1bcFrjhSSmp4r8LzmOmy7iyYkxFcjEDAC+vCaHkma7ITw8wuz9NOSg==",
+  "dgSpecHash": "/1sEKxuM/zd7aF2nia6YQtYTYTPPuKh/iBJRPm4jawrdzt3D8UWewJFmE1SXC1aSqP1n1A6Ba3OmbCIA/gZdeQ==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj": {}
+    "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj": {}
   },
   "projects": {
-    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
+    "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
         "projectName": "GeekShopping.MessageBus",
-        "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+        "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\obj\\",
+        "outputPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj": {
+    "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
+        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
         "projectName": "GeekShopping.PaymentAPI",
-        "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
+        "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentAPI\\GeekShopping.PaymentAPI.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentAPI\\obj\\",
+        "outputPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,11 +91,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
-                "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
+              "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
+                "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
               },
-              "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj": {
-                "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj"
+              "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj": {
+                "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj": {
+    "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
+        "projectUniqueName": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
         "projectName": "GeekShopping.PaymentProcessor",
-        "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
+        "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\GeekShopping.PaymentProcessor.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\obj\\",
+        "outputPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.PaymentProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

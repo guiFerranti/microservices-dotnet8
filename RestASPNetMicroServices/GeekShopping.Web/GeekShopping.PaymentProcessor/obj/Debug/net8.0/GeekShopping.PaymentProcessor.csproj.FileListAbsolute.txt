@@ -22,3 +22,15 @@ P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.
 P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\refint\GeekShopping.PaymentProcessor.dll
 P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.pdb
 P:\C#\microservices-dotnet8\23.RestASPNetFirstMicroService - Email\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\ref\GeekShopping.PaymentProcessor.dll
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\bin\Debug\net8.0\GeekShopping.PaymentProcessor.deps.json
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\bin\Debug\net8.0\GeekShopping.PaymentProcessor.dll
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\bin\Debug\net8.0\GeekShopping.PaymentProcessor.pdb
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.AssemblyInfoInputs.cache
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.AssemblyInfo.cs
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.csproj.CoreCompileInputs.cache
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.sourcelink.json
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.dll
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\refint\GeekShopping.PaymentProcessor.dll
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\GeekShopping.PaymentProcessor.pdb
+P:\C#\microservices-dotnet8\24.RestASPNetFirstMicroService - Ocelot\GeekShopping.Web\GeekShopping.PaymentProcessor\obj\Debug\net8.0\ref\GeekShopping.PaymentProcessor.dll

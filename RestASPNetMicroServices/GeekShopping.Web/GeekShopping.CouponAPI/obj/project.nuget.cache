@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "86HrRwTqFUBLWtqgvbz9vm1bZA9LU8xXTt6O1wbcOOVsGrzq9yDzEi2SEJ+pjtOjW8YOH4dGwa2pIY/KN739mQ==",
+  "dgSpecHash": "9Eh8f8kNmsn7myLKu5R6i9jn5SHn16eFCcgtruQCz8wfFFP1Bb6MDkIZcjTXE7FEg4EiSYJr5Nt50uyz0174Ig==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

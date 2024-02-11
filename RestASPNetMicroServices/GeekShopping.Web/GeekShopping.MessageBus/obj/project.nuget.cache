@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hqJpdnSmOvqbonARsYMHtw8I8Zpf+3fJBDm+BUhJh7KtR3wvDpCj0/SKuWLvKkSmsakZ9nv6lhgBHmsoWASr9w==",
+  "dgSpecHash": "pENRQ4j9JawdUVwueU/faD6I+jHg6/YaUGY2HiRAwMmLUMDv2q9KzfU3ZnC8NVhDbzaY/0bQRKrbdKbMmo5vrQ==",
   "success": true,
-  "projectFilePath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+  "projectFilePath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

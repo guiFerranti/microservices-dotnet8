@@ -3168,11 +3168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+      "projectUniqueName": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
       "projectName": "GeekShopping.OrderAPI",
-      "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+      "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.OrderAPI\\obj\\",
+      "outputPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.OrderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3193,8 +3193,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
-              "projectPath": "P:\\C#\\microservices-dotnet8\\23.RestASPNetFirstMicroService - Email\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
+            "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj": {
+              "projectPath": "P:\\C#\\microservices-dotnet8\\24.RestASPNetFirstMicroService - Ocelot\\GeekShopping.Web\\GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj"
             }
           }
         }
